@@ -1,5 +1,4 @@
 # musicPedia-Blogg
-# musicPedia_blog
 An Open-Source Bloging website. A simple project i built used to test my Python Django skills. 
 The project would be hosted here ----> (https://afroprogrammer.github.io/myWeatherApp/).
 
