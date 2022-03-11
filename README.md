@@ -1,9 +1,13 @@
-# musicPedia-Blogg
-An Open-Source Bloging website. A simple project i built used to test my Python Django skills. 
+# musicPedia-Blog
+
+#### Video Demo:  <https://www.youtube.com/watch?v=qnkqOltiFQE>
+#### Description:
+An Open-Source Blogging website. A simple project i built used to test my Python Django skills. 
 The project would be hosted here ----> [MusicPedia](http://kojothedev.pythonanywhere.com/)
 
 ## Table of Contents
 * [General info](#general-info)
+* [Url of video](#video-url)
 * [Screenshots](#screenshots)
 * [Features](#features)
 * [Technologies](#technologies)
@@ -14,8 +18,10 @@ The project would be hosted here ----> [MusicPedia](http://kojothedev.pythonanyw
 
 
 ## General info
-This is an open-source blogging website. Built with Python Django as the backend awith bootstrap 4 and styling it with colorib template.i would be
-build up on it to make it have more functionalities like genuislyrics.com
+This is an open-source blogging website. Built with Python Django as the backend with bootstrap 4 and styling it with colorib template. i would be
+building up on it to make it have more functionalities like genuislyrics.com
+
+### Video Url:  <https://www.youtube.com/watch?v=qnkqOltiFQE>
 
 ## Screenshots
 the simple Html and css used as the interface is mobile responsive to fit and display well on any given screen-size 
@@ -66,9 +72,9 @@ Project is: _in progress_
 
 
 ## Inspiration
-This project is based on the goal of imporving my skills as a developer. I wanted to improve my skills and also contribute 
+This project is based on the goal of importing my skills as a developer. I wanted to improve my skills and also contribute 
 to the open source community at the same time and decided to build this project.
-I have learnt different technologies for the project and I keep on learning new skills as i add features to the project.
+I have learnt different technologies for the project and I would keep on learning new skills as i add features to the project.
 
 
 ## Contact
